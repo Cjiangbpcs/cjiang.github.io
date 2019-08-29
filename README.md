@@ -1,5 +1,5 @@
 
-# Predictive Planning Solutions (PPS)
+# Predictive Planning Solution (PPS)
 
 Only one out of every ten data science projects make it into production, a striking statistic revealed at Transform July 2019, a conference held in San Francisco to accelerate business with Artificial Intelligence. Many factors contribute to this low percentage of productionalizations, however, one critical reason is that the data science team does not own the end-to-end pipeline to be able to bridge the gap between the predictive models and actionable planning to drive measurable business value. 
 
