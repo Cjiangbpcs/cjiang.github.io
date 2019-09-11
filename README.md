@@ -1,6 +1,6 @@
 # Multiple Object Tracking
 
-Multiple Object Tracking, MOT, aims to track motion trajectories of multiple objects in a series of video frames. This task includes two aspects: object detection and data association. Specifically, for each frame, the first step is to detect interested objects, which are then used to track by data association. 
+Multiple Object Tracking, MOT, aims to track motion trajectories of multiple objects in a series of video frames. This task includes two aspects: object detection and data association. Specifically, for each frame, the first step is to detect interested objects, which are then used to track objects by data association. 
 
 Several approaches can be used to tackle MOT task, the following method is relatively mature for production: Backend tracking optimization algorithm based on Kalman Filter and Hungaraian (Kuhn-Munkres) algorithms with SORT, DEEP-SORT as examples. 
 
