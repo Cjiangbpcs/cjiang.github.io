@@ -23,4 +23,10 @@ Wojke, Nicolai and Bewley, Alex and Paulus, Dietrich "Simple Online and Realtime
 
 Bewley, Alex and Ge, Zongyuan and Ott, Lionel and Ramos, Fabio and Upcroft, Ben "Simple Online and Realtime Tracking" In ICIP 2016. https://arxiv.org/abs/1602.00763
 
+Harold W. Kuhn. The Hungarian Method for the assignment problem. Naval Research Logistics Quarterly, 2:83-97, 1955.
+
+Harold W. Kuhn. Variants of the Hungarian method for assignment problems. Naval Research Logistics Quarterly, 3: 253-258, 1956.
+
+Munkres, J. Algorithms for the Assignment and Transportation Problems. J. SIAM, 5(1):32-38, March, 1957.
+
 https://blog.csdn.net/zjc910997316/article/details/83721573
