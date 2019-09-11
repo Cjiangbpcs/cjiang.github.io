@@ -12,6 +12,9 @@ DEEP-SORT was later developed to integrate SORT's Kalman Filter and data associa
 Note that a voting scheme is proposed to be incorporated in DEEP-SORT to identify the best detections among face, object, and Kalman Filter. 
 
 ![my image](DEEP-SORT.jpg#center)
+![my image](IOU_assignment.jpg#center)
+![my image](matching_cascade.jpg#center)
+
 
 # References:
 Wojke, Nicolai and Bewley, Alex and Paulus, Dietrich "Simple Online and Realtime Tracking with a Deep Association Metric" In ICIP 2017
