@@ -19,8 +19,8 @@ Note that a voting scheme is proposed to be incorporated in DEEP-SORT to identif
 
 
 # References:
-Wojke, Nicolai and Bewley, Alex and Paulus, Dietrich "Simple Online and Realtime Tracking with a Deep Association Metric" In ICIP 2017
+Wojke, Nicolai and Bewley, Alex and Paulus, Dietrich "Simple Online and Realtime Tracking with a Deep Association Metric" In ICIP 2017. https://arxiv.org/abs/1703.07402
 
-Bewley, Alex and Ge, Zongyuan and Ott, Lionel and Ramos, Fabio and Upcroft, Ben "Simple Online and Realtime Tracking" In ICIP 2016.
+Bewley, Alex and Ge, Zongyuan and Ott, Lionel and Ramos, Fabio and Upcroft, Ben "Simple Online and Realtime Tracking" In ICIP 2016. https://arxiv.org/abs/1602.00763
 
 https://blog.csdn.net/zjc910997316/article/details/83721573
